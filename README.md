@@ -5,4 +5,4 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit debitis rerum
 
 
 ## Repository Purpose  
-Practicing Open Source Contribution with [Shubham Sarda](https://github.com/smuhammadtaha3)
+Practicing Open Source Contribution with [Taha](https://github.com/smuhammadtaha3)
